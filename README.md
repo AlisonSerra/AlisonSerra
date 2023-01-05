@@ -12,11 +12,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my portfolio.
+- 💻 I’m currently working on the job I want to do for the rest of my life.
 
-- 🌱 I’m currently learning react and so much other thing...  
-
-- 👯 I’m looking to collaborate on projects . 
+- 📋 I’m currently learning VueJS and so much other thing...   
+  
+- 🔎 At school, I study Java, Flutter, Python and many other languages and frameworks.
 
 - 💬 Talk to me about movie and serie. I also love book and mangwa! 😃 
 
@@ -24,6 +24,7 @@
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/vuejs.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
@@ -33,7 +34,6 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/alison-serra'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/AlisonSerra'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'mailto:alison.serra@hotmail.fr'> <img width = '32px' align= 'center' src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 
 <br>
@@ -44,7 +44,7 @@
 <!--
 # <center> Hi :wave: 
 
-Je suis Alison et je suis actuellement en formation chez [O'clock](https://oclock.io/) pour être Dev Fullstack JavaScript :smile:
+Je suis Alison et je suis actuellement en Alternance avec [l'EPSI]([https://oclock.io/](https://www.epsi.fr/programmes/bachelor-informatique/)) pour être Conceptrice Développeusse d'Application :smile:
 
 [](https://github.com/AlisonSerra/github-stats/blob/master/generated/languages.svg)
 
