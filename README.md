@@ -1,7 +1,6 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < People/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlisonSerra.AlisonSerra)
 
 </p>
 <div size='20px'> Hi! My name is Alison. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -14,7 +13,7 @@
 
 - 💻 I’m currently working on the job I want to do for the rest of my life.
 
-- 📋 I’m currently learning VueJS and so much other thing...   
+- 📋 I’m currently learning VueJS, Angular and so much other thing...   
   
 - 🔎 At school, I study Java, Flutter, Python and many other languages and frameworks.
 
@@ -26,6 +25,7 @@
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/vuejs.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
 <a href= https://github.com/AlisonSerra?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
